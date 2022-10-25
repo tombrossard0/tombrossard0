@@ -4,11 +4,16 @@
 
 # 👦 About me
 
-Hi ! I'm a french student at **[EPITA](https://www.epita.fr/)** in 2nd studying year.
+<img align="right" alt="Pingouin" width="350" src="https://media.discordapp.net/attachments/869646429528928286/1034582825879474246/pingouin.gif">
+
+Hi ! I'm a french student at **[EPITA](https://www.epita.fr/)** in 2nd studying year and
 I love research and programming, mostly in AI dev.
 
 You can find more informations on **[my portfolio](https://tombrossard0.github.io/Portfolio/)**.
 
+<br>
+<br>
+<br>
 <br>
 
 # 📚 Skills
