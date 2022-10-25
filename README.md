@@ -1,4 +1,5 @@
 <p align="center"> -- </p>
+<img align="center" alt="Banner" width="1100" src="https://cdn.discordapp.com/attachments/869646429528928286/1034584170694987776/Banner-1.png">
 
 <br>
 
