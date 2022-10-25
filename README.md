@@ -4,10 +4,10 @@
 
 # 👦 About me
 
-Hi ! I'm a french student at EPITA in 2nd studying year.
-I love research and programming, mostly in AI dev. (don't ask me why).
+Hi ! I'm a french student at **[EPITA](https://www.epita.fr/)** in 2nd studying year.
+I love research and programming, mostly in AI dev.
 
-More informations : **coming soon**
+You can find more informations on **[my portfolio](https://tombrossard0.github.io/Portfolio/)**.
 
 <br>
 
