@@ -6,7 +6,7 @@
 
 <img align="right" alt="Pingouin" width="350" src="https://media.discordapp.net/attachments/869646429528928286/1034582825879474246/pingouin.gif">
 
-Hi ! I'm a french student at **[EPITA](https://www.epita.fr/)** in 2nd studying year and
+Hi! I'm a french student at **[EPITA](https://www.epita.fr/)** in 2nd studying year and
 I love research and programming, mostly in AI dev.
 
 You can find more informations on **[my portfolio](https://tombrossard0.github.io/Portfolio/)**.
@@ -68,7 +68,7 @@ You can find more informations on **[my portfolio](https://tombrossard0.github.i
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
-			<td align="center"></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)#:~:text=Bash%20is%20a%20Unix%20shell%20and%20command%20language,programs%20Linus%20Torvalds%20ported%20to%20Linux%2C%20alongside%20GCC.">Bash</a></td>
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
