@@ -12,12 +12,7 @@ I love research and programming, mostly in AI dev.
 You can find more informations on **[my portfolio](https://tombrossard0.github.io/Portfolio/)**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tombrossard0&label=Profile%20views&color=0e75b6&style=flat" alt="tombrossard0" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tombrossard0&show_icons=true&locale=en&layout=compact" alt="tombrossard0" /></p>
 
-
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
