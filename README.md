@@ -86,9 +86,9 @@ You can find more informations on **[my portfolio](https://tombrossard0.github.i
 
 <br>
 
-# 📭 Contact
+# 📭 Contact me
 
 <br>
 
 
-# 📂 Projects
+# ✨ Projects
