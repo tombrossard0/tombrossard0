@@ -9,7 +9,7 @@
 Hi! I'm a french student at **[EPITA](https://www.epita.fr/)** in 2nd studying year and
 I love research and programming, mostly in AI dev.
 
-You can find more informations on **[my portfolio](https://tombrossard0.github.io/Portfolio/)**.
+You can find more informations on **[my portfolio](https://tombrossard0.github.io/portfolio/)**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tombrossard0&label=Profile%20views&color=0e75b6&style=flat" alt="tombrossard0" /> </p>
 
