@@ -27,7 +27,7 @@ You can find more informations on **[my portfolio](https://tombrossard0.github.i
 			<th colspan="1"><b>Front-end Web</b></th>
 			<th colspan="1"><b>Back-end Web</b></th>
 			<th colspan="1"><b>Design</b></th>
-      <th colspan="1"><b>Computer Engineering</b></th>
+      			<th colspan="1"><b>Computer Engineering</b></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -38,7 +38,7 @@ You can find more informations on **[my portfolio](https://tombrossard0.github.i
 			<td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
 			<td align="center"><a href="https://www.solidworks.com/">SolidWorks</a></td>
-      <td align="center"><a href="https://en.wikipedia.org/wiki/Assembly_language">Assembly language</a></td>
+      			<td align="center"><a href="https://en.wikipedia.org/wiki/Assembly_language">Assembly language</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Assembly_language">Assembly language</a></td>
@@ -47,25 +47,25 @@ You can find more informations on **[my portfolio](https://tombrossard0.github.i
 			<td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
 			<td align="center"><a href="https://nodejs.org/en/">NodeJS</a></td>
 			<td align="center"><a href="https://www.figma.com/">Figma</a></td>
-      <td align="center"><a href="https://en.wikipedia.org/wiki/Motorola_68000">Motorola 68k</a></td>
+      			<td align="center"><a href="https://en.wikipedia.org/wiki/Motorola_68000">Motorola 68k</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://www.python.org/">Python</a></td>
 			<td align="center"><a href="https://ocaml.org/">OCaml</a></td>
 			<td align="center"></td>
-			<td align="center"><a href="https://git-scm.com/">Git</a></td>
+			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></td>
 			<td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
-      <td align="center"></td>
+      			<td align="center"></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://git-scm.com/">Git</a></td>
 			<td align="center"><a href="https://cmake.org/">CMake</a></td>
 			<td align="center"></td>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
 			<td align="center"></td>
 			<td align="center"></td>
-      <td align="center"></td>
+			<td align="center"></td>
+      			<td align="center"></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://en.wikipedia.org/wiki/Unix">Unix</a></td>
@@ -74,7 +74,7 @@ You can find more informations on **[my portfolio](https://tombrossard0.github.i
 			<td align="center"></td>
 			<td align="center"></td>
 			<td align="center"></td>
-      <td align="center"></td>
+      			<td align="center"></td>
 		</tr>
 	</tbody>
 </table>
