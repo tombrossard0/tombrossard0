@@ -6,13 +6,14 @@
 
 <img align="right" alt="Pingouin" width="400" src="https://media.discordapp.net/attachments/869646429528928286/1034582825879474246/pingouin.gif">
 
-Hi! I'm a french student at **[EPITA](https://www.epita.fr/)** in 2nd studying year and
+Hi! I'm a french student at **[EPITA](https://www.epita.fr/)** in 3rd studying year and
 I love research and programming, mostly in AI dev.
 
 You can find more informations on **[my portfolio](https://tombrossard0.github.io/portfolio/)**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tombrossard0&label=Profile%20views&color=0e75b6&style=flat" alt="tombrossard0" /> </p>
 
+<!--
 <br>
 <br>
 <br>
@@ -87,3 +88,4 @@ You can find more informations on **[my portfolio](https://tombrossard0.github.i
 
 
 # ✨ Projects
+-->
