@@ -89,3 +89,5 @@ I love research and programming, mostly in AI dev.
 
 # ✨ Projects
 -->
+
+![tombrossard0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tombrossard0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
