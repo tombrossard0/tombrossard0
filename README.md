@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" width="1100" src="https://cdn.discordapp.com/attachments/869646429528928286/1034584170694987776/Banner-1.png">
+<img align="center" alt="Banner" width="1100" src="https://media.licdn.com/dms/image/D5616AQFbJd_TY0aDiw/profile-displaybackgroundimage-shrink_350_1400/0/1694117591530?e=1715212800&v=beta&t=jcuY0hMh1MaCHMUAN3osTr23mNt8U48TEn8lZyN3rAw">
 
 <br>
 
