@@ -9,7 +9,7 @@
 Hi! I'm a french student at **[EPITA](https://www.epita.fr/)** in 3rd studying year and
 I love research and programming, mostly in AI dev.
 
-Really few projects I've made month and years ago are deposited here, feel free to take a look.
+Really few personal projects I've made months and years ago are deposited here, feel free to take a look.
 Sometimes I take a look on my hardisk and archive they here ^^
 
 <!--You can find more informations on **[my portfolio](https://tombrossard0.github.io/portfolio/)**.-->
