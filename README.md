@@ -93,4 +93,4 @@ Sometimes I take a look on my hardisk and archive they here ^^
 # ✨ Projects
 -->
 
-![tombrossard0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tombrossard0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!-- ![tombrossard0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tombrossard0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
