@@ -14,7 +14,7 @@ Sometimes I take a look on my hardisk and archive they here ^^
 
 <!--You can find more informations on **[my portfolio](https://tombrossard0.github.io/portfolio/)**.-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tombrossard0&label=Profile%20views&color=0e75b6&style=flat" alt="tombrossard0" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tombrossard0&label=Profile%20views&color=0e75b6&style=flat" alt="tombrossard0" /> </p> -->
 
 <!--
 <br>
