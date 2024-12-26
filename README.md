@@ -1,13 +1,10 @@
-<img align="center" alt="Banner" width="1100" src="https://media.licdn.com/dms/image/D5616AQFbJd_TY0aDiw/profile-displaybackgroundimage-shrink_350_1400/0/1694117591530?e=1715212800&v=beta&t=jcuY0hMh1MaCHMUAN3osTr23mNt8U48TEn8lZyN3rAw">
+<img align="center" alt="Banner" width="1100" src="https://media.licdn.com/dms/image/v2/D5616AQFbJd_TY0aDiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694117591530?e=1740614400&v=beta&t=4nuUDaOU1nO0UZl1Pk_smfY3VR2JTQB7EHGBqqtvUIk">
 
 <br>
 
 # 👦 About me
 
-<img align="right" alt="Pingouin" width="400" src="https://media.discordapp.net/attachments/869646429528928286/1034582825879474246/pingouin.gif">
-
-Hi! I'm a french student at **[EPITA](https://www.epita.fr/)** in 3rd studying year and
-I love research and programming, mostly in AI dev.
+Hi! I'm a french student at **[EPITA](https://www.epita.fr/)** in 4th studying year.
 
 Really few personal projects I've made months and years ago are deposited here, feel free to take a look.
 Sometimes I take a look on my hardisk and archive they here ^^
