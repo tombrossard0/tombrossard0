@@ -1,6 +1,5 @@
 <img align="center" alt="Banner" width="1100" src="images/github-header-banner.png"/>
 <!-- Header generated thanks to this site: https://leviarista.github.io/github-profile-header-generator/ -->
-<br>
 
 # 👦 About me
 
