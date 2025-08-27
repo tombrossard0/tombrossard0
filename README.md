@@ -23,6 +23,6 @@ Here are some of my personal projects:
   A *very* simplified version of Git implemented from scratch, featuring object storage, commit history, and basic clonning https (and unpack compressed data).
 - **[Raytracing with CUDA](https://github.com/tombrossard0/raytracing-with-cuda)**  
   GPU-accelerated raytracing in C++, supporting real-time rendering of 3D scenes and animated GIF generation.
-  ![screenshot](Screenshot from 2025-08-27 18-08-46.png)
+![screenshot](Screenshot from 2025-08-27 18-08-46.png)
 - **[Nonogram Solver](https://github.com/tombrossard0/Nonogramme-Solver)**  
   An algorithmic solver for Nonogram puzzles using constraint satisfaction and backtracking algorithms.
