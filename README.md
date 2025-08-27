@@ -12,8 +12,6 @@ explore!
 
 # ✨ Projects
 
-![my top used languages on github](https://github-readme-stats.vercel.app/api/top-langs/?username=tombrossard0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 Here are some of my personal projects:
 
 - **[Marbl-lang](https://github.com/tombrossard0/marbl-lang) & [Marbl-code](https://github.com/tombrossard0/marbl-code)**
